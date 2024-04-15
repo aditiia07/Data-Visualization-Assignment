@@ -1,5 +1,6 @@
 # Data-Visualization-Assignment
 Assignment for Data Visualization at CentraleSupelec
+Group Name: Totally Forgot
 
 ## "A Data Sprint through 120 years of Olympic History"
 
